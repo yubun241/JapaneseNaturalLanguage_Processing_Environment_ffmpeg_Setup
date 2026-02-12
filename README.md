@@ -1,6 +1,7 @@
-## Japanese Natural Language Processing Environment Setup (Python)
+## Japanese Natural Language Processing Environment ffmpeg_Setup (Python)
 pythonを使って日本語テキストを自然言語処理するための基本環境構築手順
 音声の録音データの文字お越しになっています
+ffmegの動作環境テストのプログラムです。
 
 ## 必要環境
 macOS / Linux / Windows
